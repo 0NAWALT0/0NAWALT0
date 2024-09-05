@@ -7,16 +7,14 @@
 - 🧠
 -    I’m currently learning Ethical Hacking and programming with python 🐍
 -    Actualmente continúo desarrollando las habilidades de Hacker Etico y Analista de Ciberseguridad combinando el recorrido mediante la automatización de procesos con Python 🐍
+  
 - 💻>>🤝
 -    I’m looking to collaborate on script developmen for automatization task like DNS enumeration, IP research, Malware analisys, vulnerability exploitation and more.
 -    En este proceso busco colaborar en el desarrollo de scripts para tareas de automatización como enumeración de DNS, investigación de IP, análisis de malware, explotación de vulnerabilidades y más.
 - 📫
 -  Connect with me:
 -    https://www.linkedin.com/in/fabridelbino/
-- 😄
-- Pronouns: | NAWALT |
 - ⚡
--  Fun fact:
 -      “In the beginning was the Word, and the Word was with God, and the Word was God.”
 <!---
 0NAWALT0/0NAWALT0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
